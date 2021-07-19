@@ -1,0 +1,1 @@
+"C:\Program Files\Adobe\Adobe Photoshop CC 2019\Photoshop.exe " "C:\Users\eprintare-Grafica2\Desktop\A4 cover.lnk"

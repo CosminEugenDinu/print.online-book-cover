@@ -1,0 +1,28 @@
+{
+  "name": "print.online-book-cover",
+  "version": "1.0.0",
+  "description": "Create book cover from pdf.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build-watch": "npx swc src --out-dir dist -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CosminEugenDinu/print.online-book-cover.git"
+  },
+  "author": "Cos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CosminEugenDinu/print.online-book-cover/issues"
+  },
+  "homepage": "https://github.com/CosminEugenDinu/print.online-book-cover#readme",
+  "devDependencies": {
+    "@swc/cli": "^0.1.46",
+    "@swc/core": "^1.2.64",
+    "@swc/helpers": "^0.2.12",
+    "chokidar": "^3.5.2",
+    "tslint": "^6.1.3"
+  }
+}
